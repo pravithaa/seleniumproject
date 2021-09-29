@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Parallel test SampleTestSuite" >
+<test name="SampleTest01">
+
+<classes>
+<class name="seleniumproject.facebook"/>
+</classes>
+</test>
+</suite>
